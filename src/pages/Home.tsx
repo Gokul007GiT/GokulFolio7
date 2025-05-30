@@ -37,7 +37,7 @@ const Home = () => {
           <div className="space-y-6 animate-fade-in">
             {/* Greeting with waving hand */}
             <div className="flex items-center justify-center space-x-3 text-4xl md:text-5xl">
-              <span className="text-white font-light">Hi</span>
+              <span className="text-white font-light">Hiiii</span>
               <span className="text-6xl animate-wave">👋🏻</span>
               <span className="text-white font-light">I’m</span>
             </div>
