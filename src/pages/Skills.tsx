@@ -139,7 +139,7 @@ const Skills = () => {
             My <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">Skills</span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Hover over the cards to explore my expertise and experience
+            Fueled by curiosity. Built through learning.
           </p>
         </div>
 
