@@ -66,7 +66,7 @@ const Skills = () => {
       experience: '2+ years',
       skills: ['Node.js', 'Firebase', 'MongoDB', 'API Development', 'Cloud Services', 'Authentication']
     },
-    {
+   // {
       // id: 'tools',
      // icon: Terminal,
       //title: 'Tools & Technologies',
@@ -75,7 +75,7 @@ const Skills = () => {
      // projects: ['DevOps Pipeline', 'Version Control', 'Testing Frameworks'],
      // experience: '3+ years',
      // skills: ['Git', 'VS Code', 'Postman', 'Docker', 'Linux', 'Chrome DevTools']
-    },
+   // },
     {
       id: 'soft',
       icon: Users,
