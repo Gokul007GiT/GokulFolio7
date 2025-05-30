@@ -67,14 +67,14 @@ const Skills = () => {
       skills: ['Node.js', 'Firebase', 'MongoDB', 'API Development', 'Cloud Services', 'Authentication']
     },
     {
-      {/* id: 'tools',
-      icon: Terminal,
-      title: 'Tools & Technologies',
-      color: 'cyan',
-      useCase: 'Streamlining development workflow and productivity',
-      projects: ['DevOps Pipeline', 'Version Control', 'Testing Frameworks'],
-      experience: '3+ years',
-      skills: ['Git', 'VS Code', 'Postman', 'Docker', 'Linux', 'Chrome DevTools']*/}
+      // id: 'tools',
+     // icon: Terminal,
+      //title: 'Tools & Technologies',
+    //  color: 'cyan',
+     // useCase: 'Streamlining development workflow and productivity',
+     // projects: ['DevOps Pipeline', 'Version Control', 'Testing Frameworks'],
+     // experience: '3+ years',
+     // skills: ['Git', 'VS Code', 'Postman', 'Docker', 'Linux', 'Chrome DevTools']
     },
     {
       id: 'soft',
