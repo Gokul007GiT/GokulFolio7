@@ -61,7 +61,7 @@ const LoadingScreen = ({ onLoadingComplete }: LoadingScreenProps) => {
       <div className="relative z-10 text-center space-y-8">
         {/* Logo/Brand */}
         <div className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent animate-pulse">
-          Almost There...Hang Tight...
+          Almost There Final Touches...
         </div>
 
         {/* Loading animation */}
