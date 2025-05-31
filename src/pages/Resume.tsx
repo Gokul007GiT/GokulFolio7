@@ -1,17 +1,19 @@
-
 import React from 'react';
 import { Download, Eye } from 'lucide-react';
 import InteractiveTimeline from '../components/InteractiveTimeline';
 
 const Resume = () => {
   const handleView = () => {
-    // In a real implementation, this would open the PDF in a new tab
-    console.log('Viewing resume...');
+    window.open('/M Gokul Krishnan(resume).pdf', '_blank'); // Opens the resume in a new tab
   };
 
   const handleDownload = () => {
-    // In a real implementation, this would download the actual PDF
-    console.log('Downloading resume...');
+    const link = document.createElement('a');
+    link.href = '/M Gokul Krishnan(resume).pdf';
+    link.download = 'M Gokul Krishnan(resume).pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
