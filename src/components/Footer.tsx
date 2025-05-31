@@ -27,7 +27,7 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="relative mt-20 py-8 bg-transparent backdrop-blur-none">
+    <footer className="relative mt-20 py-8 bg-transparent backdrop-blur-none border-t border-purple-500/20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           {/* Copyright - Far Left */}
