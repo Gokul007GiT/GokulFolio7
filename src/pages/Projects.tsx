@@ -23,7 +23,7 @@ const Projects = () => {
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
       category: 'Portfolio',
       image: '/placeholder.svg',
-      github: 'https://github.com/Gokul007GiT',
+      github: 'https://github.com/Gokul007GiT/GokuFolio7/tree/master',
       demo: 'https://gokulfolio.vercel.app/'
     }
     
