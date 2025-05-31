@@ -26,16 +26,16 @@ const Skills = () => {
       experience: '2+ years',
       skills: ['Kali Linux', 'Burp Suite', 'Nmap', 'Wireshark', 'Metasploit', 'OSINT']
     },
-    {
-      id: 'trading',
-      icon: TrendingUp,
-      title: 'Trading & Finance',
-      color: 'green',
-      useCase: 'Analyzing markets and developing trading strategies',
-      projects: ['Technical Analysis Dashboard', 'Risk Management System', 'Portfolio Tracker'],
-      experience: '3+ years',
-      skills: ['Technical Analysis', 'Risk Management', 'Chart Patterns', 'Options Trading', 'Cryptocurrency', 'Market Research']
-    },
+   // {
+    //  id: 'trading',
+    //  icon: TrendingUp,
+     // title: 'Trading & Finance',
+    //  color: 'green',
+    //  useCase: 'Analyzing markets and developing trading strategies',
+    //  projects: ['Technical Analysis Dashboard', 'Risk Management System', 'Portfolio Tracker'],
+     // experience: '3+ years',
+     // skills: ['Technical Analysis', 'Risk Management', 'Chart Patterns', 'Options Trading', 'Cryptocurrency', 'Market Research']
+   // },
     {
       id: 'entrepreneurship',
       icon: Lightbulb,
@@ -56,16 +56,16 @@ const Skills = () => {
       experience: '3+ years',
       skills: ['React', 'Tailwind CSS', 'HTML5', 'CSS3', 'Responsive Design', 'TypeScript']
     },
-    {
-      id: 'backend',
-      icon: Database,
-      title: 'Backend Development',
-      color: 'indigo',
-      useCase: 'Building robust server-side applications and APIs',
-      projects: ['REST APIs', 'Database Design', 'Cloud Deployment'],
-      experience: '2+ years',
-      skills: ['Node.js', 'Firebase', 'MongoDB', 'API Development', 'Cloud Services', 'Authentication']
-    },
+   // {
+    //  id: 'backend',
+     // icon: Database,
+    //  title: 'Backend Development',
+    //  color: 'indigo',
+     // useCase: 'Building robust server-side applications and APIs',
+     // projects: ['REST APIs', 'Database Design', 'Cloud Deployment'],
+    //  experience: '2+ years',
+     // skills: ['Node.js', 'Firebase', 'MongoDB', 'API Development', 'Cloud Services', 'Authentication']
+   // },
    // {
       // id: 'tools',
      // icon: Terminal,
@@ -159,7 +159,7 @@ const Skills = () => {
                 <div className={`absolute inset-0 w-full h-full backface-hidden rounded-2xl backdrop-blur-md bg-gradient-to-br ${getGradientColor(category.color)} border ${getColorClasses(category.color)} p-6 flex flex-col items-center justify-center text-center`}>
                   <category.icon className={`${getIconColor(category.color)} mb-4`} size={48} />
                   <h3 className="text-lg font-bold text-white mb-2">{category.title}</h3>
-                  <p className="text-sm text-gray-300">Hover to explore</p>
+                  <p className="text-sm text-gray-300">Hover for more</p>
                 </div>
 
                 {/* Back Side */}
