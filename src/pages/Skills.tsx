@@ -52,9 +52,9 @@ const Skills = () => {
       title: 'Frontend Development',
       color: 'pink',
       useCase: 'Creating beautiful and responsive user interfaces',
-      projects: ['React Applications', 'UI/UX Design', 'Mobile-First Design'],
-      experience: '3+ years',
-      skills: ['React', 'Tailwind CSS', 'HTML5', 'CSS3', 'Responsive Design', 'TypeScript']
+      projects: ['UI/UX Design', 'static pages'],
+      experience: '09/2024 - now',
+      skills: ['HTML5', 'CSS3', 'Responsive Design', 'TypeScript']
     },
    // {
     //  id: 'backend',
@@ -82,9 +82,9 @@ const Skills = () => {
       title: 'Soft Skills',
       color: 'orange',
       useCase: 'Effective communication and collaboration in teams',
-      projects: ['Team Leadership', 'Client Communication', 'Mentorship'],
+      projects: ['Human Stack', 'Flow Sync', 'Thought Presence'],
       experience: '4+ years',
-      skills: ['Communication', 'Teamwork', 'Problem Solving', 'Adaptability', 'Time Management', 'Critical Thinking']
+      skills: ['Efficient Planning', 'strategic lead', 'Adaptive strategy']
     }
   ];
 
