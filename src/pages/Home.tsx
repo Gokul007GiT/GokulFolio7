@@ -71,7 +71,7 @@ const Home = () => {
           </div>
 
           {/* Introduction text - Glass transparent style */}
-          <div className="relative glass-morphism rounded-2xl p-8 animate-scale-in border border-white/10">
+          <div className="rounded-2xl p-8 animate-scale-in bg-transparent">
             <p className="text-xl text-gray-200 leading-relaxed text-center max-w-4xl mx-auto font-light">
              I'm someone who loves learning and discovering new things every day,Curiosity drives me to explore different fields and understand how things connect.
              I pay attention to details and enjoy figuring out solutions to challenges.
