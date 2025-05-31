@@ -19,7 +19,7 @@ const Projects = () => {
    
     {
       title: 'Portfolio Website',
-      description: 'Its a sample portfolio of My Own .',
+      description: 'Its a sample portfolio of My Own . 90% by Prompting , remaining by my own Tweaks and Tunes.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
       category: 'Portfolio',
       image: '/placeholder.svg',
@@ -45,7 +45,7 @@ const Projects = () => {
             My <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">Projects</span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            A showcase of my work across technology, cybersecurity, trading, and entrepreneurship
+            A showcase of my work across all Domains.
           </p>
         </div>
 
