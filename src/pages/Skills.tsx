@@ -22,8 +22,8 @@ const Skills = () => {
       title: 'Cybersecurity',
       color: 'blue',
       useCase: 'Protecting digital assets and conducting security assessments',
-      projects: ['Network Penetration Testing', 'Web App Security Audit', 'Vulnerability Assessment'],
-      experience: '2+ years',
+      //projects: ['Network Penetration Testing', 'Web App Security Audit', 'Vulnerability Assessment'],
+      experience: '12/2024 - now',
       skills: ['Kali Linux', 'Burp Suite', 'Nmap', 'Wireshark', 'Metasploit', 'OSINT']
     },
    // {
