@@ -12,9 +12,9 @@ const Skills = () => {
       title: 'Programming & Development',
       color: 'purple',
       useCase: 'Building scalable web applications',
-      projects: ['Portfolio Website', 'E-commerce Platform', 'Trading Bot'],
-      experience: '3+ years',
-      skills: ['Python', 'JavaScript', 'React', 'Node.js', 'SQL', 'Git/GitHub']
+      projects: ['Alumni Management System', 'Portfolio'],
+      experience: '09/2024 - now',
+      skills: ['HTML', 'CSS', 'Python - Django', 'JavaScript', 'Git/GitHub']
     },
     {
       id: 'cybersecurity',
