@@ -18,7 +18,7 @@ const InteractiveTimeline = () => {
 
   const timelineEvents: TimelineEvent[] = [
     {
-      id: '2021',
+      id: '09/2021',
       year: '2021 - 2024',
       title: 'BSc Computer Science',
       subtitle: 'University of Calicut',
@@ -39,8 +39,8 @@ const InteractiveTimeline = () => {
     },
    
     {
-      id: '2021',
-      year: '2021',
+      id: '09/2024',
+      year: '2024 - now',
       title: 'Cybersecurity Learning',
       subtitle: 'Ethical Hacking & Security',
       description: 'Began intensive study of cybersecurity concepts, ethical hacking techniques, and network security protocols.',
