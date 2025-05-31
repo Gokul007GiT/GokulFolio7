@@ -37,16 +37,7 @@ const InteractiveTimeline = () => {
       color: 'from-blue-500 to-cyan-500',
       category: 'project'
     },
-   // {
-    //  id: '2022',
-     // year: '2022',
-      //title: 'Trading & Investment',
-      //subtitle: 'Financial Markets',
-     // description: 'Started active trading and investment activities. Developed expertise in technical analysis, risk management, and market research.',
-      //icon: TrendingUp,
-      //color: 'from-green-500 to-yellow-500',
-      //category: 'experience'
-    //},
+   
     {
       id: '2021',
       year: '2021',
