@@ -7,10 +7,10 @@ const Projects = () => {
 
   const projects = [
     {
-      title: 'Cybersecurity Dashboard',
-      description: 'A comprehensive dashboard for monitoring network security and threat detection with real-time alerts.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'WebSocket'],
-      category: 'Cybersecurity',
+      title: 'Alumni Management',
+      description: 'Developed a system to streamline the management and engagement of alumni networks. The project included features such as alumni registration, event notifications, and communication tools to foster connections between alumni and the institution. Focused on creating an intuitive user interface, efficient database management, and secure handling of alumni data. This project enhanced my skills in programming, database design, and system integration.',
+      technologies: ['Python', 'Django'],
+      category: 'Project',
       image: '/placeholder.svg',
       github: 'https://github.com/Gokul007GiT',
       demo: '#'
@@ -19,7 +19,7 @@ const Projects = () => {
    
     {
       title: 'Portfolio Website',
-      description: 'Its a sample portfolio of My Own . 90% by Prompting , remaining by my own Tweaks and Tunes.',
+      description: 'Its a Portfolio of My Own . 90% by Prompting , remaining by my own Tweaks and Tunes.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
       category: 'Portfolio',
       image: '/Portfolio.jpg',
