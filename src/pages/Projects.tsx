@@ -15,51 +15,19 @@ const Projects = () => {
       github: 'https://github.com/Gokul007GiT',
       demo: '#'
     },
-    {
-      title: 'Trading Algorithm Bot',
-      description: 'Automated trading bot using machine learning algorithms for cryptocurrency market analysis.',
-      technologies: ['Python', 'TensorFlow', 'APIs', 'PostgreSQL'],
-      category: 'Trading',
-      image: '/placeholder.svg',
-      github: 'https://github.com/Gokul007GiT',
-      demo: '#'
-    },
-    {
-      title: 'Startup Management Platform',
-      description: 'Complete business management solution for startups with project tracking and team collaboration.',
-      technologies: ['React', 'Express', 'MySQL', 'AWS'],
-      category: 'Entrepreneurship',
-      image: '/placeholder.svg',
-      github: 'https://github.com/Gokul007GiT',
-      demo: '#'
-    },
+    
+   
     {
       title: 'Portfolio Website',
-      description: 'Modern, responsive portfolio website with dark theme and smooth animations.',
+      description: 'Its a sample portfolio of My Own .',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
-      category: 'Web Development',
+      category: 'Portfolio',
       image: '/placeholder.svg',
       github: 'https://github.com/Gokul007GiT',
-      demo: '#'
-    },
-    {
-      title: 'Penetration Testing Tool',
-      description: 'Custom tool for vulnerability assessment and penetration testing with comprehensive reporting.',
-      technologies: ['Python', 'Kali Linux', 'Shell Scripting'],
-      category: 'Cybersecurity',
-      image: '/placeholder.svg',
-      github: 'https://github.com/Gokul007GiT',
-      demo: '#'
-    },
-    {
-      title: 'E-commerce Analytics',
-      description: 'Data analytics platform for e-commerce businesses with sales forecasting and customer insights.',
-      technologies: ['Python', 'Pandas', 'React', 'Chart.js'],
-      category: 'Data Science',
-      image: '/placeholder.svg',
-      github: 'https://github.com/Gokul007GiT',
-      demo: '#'
+      demo: 'https://gokulfolio.vercel.app/'
     }
+    
+    
   ];
 
   const categories = ['All', 'Portfolio','Project'];
