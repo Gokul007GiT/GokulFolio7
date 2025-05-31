@@ -62,7 +62,7 @@ const Projects = () => {
     }
   ];
 
-  const categories = ['All', 'Cybersecurity', 'Trading', 'Entrepreneurship', 'Web Development', 'Data Science'];
+  const categories = ['All', 'Portfolio','Project'];
 
   const filteredProjects = filter === 'All' 
     ? projects 
