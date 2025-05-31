@@ -22,7 +22,7 @@ const Projects = () => {
       description: 'Its a sample portfolio of My Own . 90% by Prompting , remaining by my own Tweaks and Tunes.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
       category: 'Portfolio',
-      image: '/placeholder.svg',
+      image: '/Portfolio.jpg',
       github: 'https://github.com/Gokul007GiT/GokuFolio7/tree/master',
       demo: 'https://gokulfolio.vercel.app/'
     }
