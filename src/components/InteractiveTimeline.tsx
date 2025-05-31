@@ -18,7 +18,7 @@ const InteractiveTimeline = () => {
 
   const timelineEvents: TimelineEvent[] = [
     {
-      id: '2024',
+      id: '2021',
       year: '2021 - 2024',
       title: 'BSc Computer Science',
       subtitle: 'University of Calicut',
