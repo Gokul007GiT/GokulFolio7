@@ -19,7 +19,7 @@ const InteractiveTimeline = () => {
   const timelineEvents: TimelineEvent[] = [
     {
       id: '2024',
-      year: '2024',
+      year: '2021 - 2024',
       title: 'BSc Computer Science',
       subtitle: 'University of Calicut',
       description: 'Graduated with comprehensive knowledge in computer science fundamentals, programming languages, algorithms, and software development methodologies.',
@@ -28,25 +28,25 @@ const InteractiveTimeline = () => {
       category: 'education'
     },
     {
-      id: '2023',
-      year: '2023',
-      title: 'Advanced Web Development',
-      subtitle: 'Full Stack Projects',
-      description: 'Developed multiple full-stack applications using React, Node.js, and modern web technologies. Focused on responsive design and user experience.',
+      id: '2024',
+      year: '2024 - now',
+      title: 'Web Development',
+      subtitle: 'Web App Projects',
+      description: 'Developed a system to streamline the management and engagement of alumni networks.',
       icon: Code,
       color: 'from-blue-500 to-cyan-500',
       category: 'project'
     },
-    {
-      id: '2022',
-      year: '2022',
-      title: 'Trading & Investment',
-      subtitle: 'Financial Markets',
-      description: 'Started active trading and investment activities. Developed expertise in technical analysis, risk management, and market research.',
-      icon: TrendingUp,
-      color: 'from-green-500 to-yellow-500',
-      category: 'experience'
-    },
+   // {
+    //  id: '2022',
+     // year: '2022',
+      //title: 'Trading & Investment',
+      //subtitle: 'Financial Markets',
+     // description: 'Started active trading and investment activities. Developed expertise in technical analysis, risk management, and market research.',
+      //icon: TrendingUp,
+      //color: 'from-green-500 to-yellow-500',
+      //category: 'experience'
+    //},
     {
       id: '2021',
       year: '2021',
