@@ -168,7 +168,7 @@ const Skills = () => {
                     <h4 className="text-sm font-bold text-white mb-2">Use Case</h4>
                     <p className="text-xs text-gray-300 mb-3 leading-relaxed">{category.useCase}</p>
                     
-                    <h4 className="text-sm font-bold text-white mb-2">Key Projects</h4>
+                    <h4 className="text-sm font-bold text-white mb-2">Work & Impact</h4>
                     <ul className="text-xs text-gray-300 mb-3 space-y-1">
                       {category.projects.slice(0, 2).map((project, idx) => (
                         <li key={idx}>• {project}</li>
