@@ -41,9 +41,9 @@ const InteractiveTimeline = () => {
     {
       id: '09/2024',
       year: '2024 - now',
-      title: 'Cybersecurity Learning',
+      title: 'Cybersecurity',
       subtitle: 'Ethical Hacking & Security',
-      description: 'Began intensive study of cybersecurity concepts, ethical hacking techniques, and network security protocols.',
+      description: 'Currently learning and exploring the field of cybersecurity, focusing on understanding how to secure systems, networks, and data from threats while developing skills in ethical hacking and vulnerability assessment.',
       icon: Shield,
       color: 'from-red-500 to-orange-500',
       category: 'experience'
