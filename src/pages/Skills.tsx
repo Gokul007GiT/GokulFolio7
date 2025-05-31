@@ -11,7 +11,7 @@ const Skills = () => {
       icon: Code,
       title: 'Programming & Development',
       color: 'purple',
-      useCase: 'Building scalable web applications and automation tools',
+      useCase: 'Building scalable web applications',
       projects: ['Portfolio Website', 'E-commerce Platform', 'Trading Bot'],
       experience: '3+ years',
       skills: ['Python', 'JavaScript', 'React', 'Node.js', 'SQL', 'Git/GitHub']
@@ -36,16 +36,16 @@ const Skills = () => {
      // experience: '3+ years',
      // skills: ['Technical Analysis', 'Risk Management', 'Chart Patterns', 'Options Trading', 'Cryptocurrency', 'Market Research']
    // },
-    {
-      id: 'entrepreneurship',
-      icon: Lightbulb,
-      title: 'Entrepreneurship',
-      color: 'yellow',
-      useCase: 'Leading projects and driving innovation in tech startups',
-      projects: ['Startup Consulting', 'Product Development', 'Team Management'],
-      experience: '2+ years',
-      skills: ['Business Strategy', 'Project Management', 'Leadership', 'Innovation', 'Problem Solving', 'Strategic Planning']
-    },
+   // {
+      //id: 'entrepreneurship',
+      //icon: Lightbulb,
+     // title: 'Entrepreneurship',
+     // color: 'yellow',
+     // useCase: 'Leading projects and driving innovation in tech startups',
+     // projects: ['Startup Consulting', 'Product Development', 'Team Management'],
+     // experience: '2+ years',
+    //  skills: ['Business Strategy', 'Project Management', 'Leadership', 'Innovation', 'Problem Solving', 'Strategic Planning']
+  //  },
     {
       id: 'frontend',
       icon: Palette,
