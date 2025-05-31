@@ -80,7 +80,7 @@ const Home = () => {
           </div>
 
           {/* Get In Touch Section - Glass transparent style */}
-          <div className="relative glass-morphism rounded-2xl p-8 animate-scale-in border border-white/10">
+          <div className="rounded-2xl p-8 animate-scale-in bg-transparent">
             <h3 className="text-2xl md:text-3xl font-light text-white mb-8 text-center">
               <span className="bg-gradient-to-r from-purple-400 via-blue-400 to-cyan-400 bg-clip-text text-transparent">
                 Let's Connect
