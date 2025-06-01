@@ -12,8 +12,7 @@ const Projects = () => {
       technologies: ['Python', 'Django'],
       category: 'Project',
       image: '/alumni img.jpg',
-      github: 'https://github.com/Gokul007GiT',
-      demo: '#'
+      
     },
     
    
