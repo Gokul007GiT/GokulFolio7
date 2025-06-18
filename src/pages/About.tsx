@@ -70,7 +70,7 @@ const About = () => {
             <div className="border-l-4 border-red-500 pl-6">
               <h3 className="text-xl font-semibold text-white">Fin - Dex</h3>
               <p className="text-gray-300 mt-2">
-                Analyzing flows, trends and shifts to sense movement before it becomes visible...
+                Analyzing flows, trends and shifts.
               </p>
             </div>
           </div>
