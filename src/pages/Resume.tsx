@@ -4,13 +4,13 @@ import InteractiveTimeline from '../components/InteractiveTimeline';
 
 const Resume = () => {
   const handleView = () => {
-    window.open('/M Gokul Krishnan(resume).pdf', '_blank'); // Opens the resume in a new tab
+    window.open('/resume.pdf', '_blank'); // Opens the resume in a new tab
   };
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/M Gokul Krishnan(resume).pdf';
-    link.download = 'M Gokul Krishnan(resume).pdf';
+    link.href = '/resume.pdf';
+    link.download = 'resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
