@@ -27,16 +27,6 @@ const InteractiveTimeline = () => {
       color: 'from-purple-500 to-blue-500',
       category: 'education'
     },
-    {
-      id: '2024',
-      year: '2024 - now',
-      title: 'Web Development',
-      subtitle: 'Web App Projects',
-      description: 'Developed a system to streamline the management and engagement of alumni networks.',
-      icon: Code,
-      color: 'from-blue-500 to-cyan-500',
-      category: 'project'
-    },
    
     {
       id: '09/2024',
