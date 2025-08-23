@@ -4,7 +4,7 @@ import { Mail, Linkedin, Github, Instagram } from 'lucide-react';
 import AnimatedText from '../components/AnimatedText';
 
 const Home = () => {
-  const roles = ['Cybersecurity Enthusiast', 'Code Learner'];
+  const roles = ['Cybersecurity', 'Networking'];
 
   const contactLinks = [
     {
