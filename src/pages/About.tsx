@@ -24,11 +24,11 @@ const About = () => {
           </div>
           <div className="space-y-4">
              <div className="border-l-4 border-violet-500 pl-6">
-             <h3 className="text-xl font-semibold text-white">CyberSecurity & Development</h3>
+             <h3 className="text-xl font-semibold text-white">CyberSecurity</h3>
              <p className="text-violet-400 font-medium">Self Learning</p>
              <p className="text-gray-400">2024 – now</p>
              <p className="text-gray-300 mt-2">
-              Learning cybersecurity and development at my own pace through real-world practice and research.
+              Learning cybersecurity at my own pace through real-world practice and research.
              </p>
              </div>
             <div className="border-l-4 border-blue-500 pl-6">
@@ -56,9 +56,8 @@ const About = () => {
               </p>
             </div>
             <div className="border-l-4 border-blue-500 pl-6">
-              <h3 className="text-xl font-semibold text-white">Web Tech</h3>
+              <h3 className="text-xl font-semibold text-white"> </h3>
               <p className="text-gray-300 mt-2">
-               Exploring the world of web tech to create functional, responsive, and secure digital experiences.
               </p>
             </div>
             <div className="border-l-4 border-yellow-500 pl-6">
@@ -68,9 +67,8 @@ const About = () => {
               </p>
             </div>
             <div className="border-l-4 border-red-500 pl-6">
-              <h3 className="text-xl font-semibold text-white">Fin - Dex</h3>
+              <h3 className="text-xl font-semibold text-white"> </h3>
               <p className="text-gray-300 mt-2">
-                Analyzing flows, trends and shifts.
               </p>
             </div>
           </div>
@@ -87,7 +85,7 @@ const About = () => {
               I believe that technology has the power to transform lives and solve complex problems. 
             </p>
             <p>
-            I’m curious about how technology shapes the world and how I can learn to use it better. I enjoy discovering new things—whether it’s cybersecurity,Programming, blogging, or understanding patterns in complex systems. Solving problems and turning ideas into something real is what keeps me motivated.
+            I’m curious about how technology shapes the world and how I can learn to use it better. I enjoy discovering new things.Solving problems and turning ideas into something real is what keeps me motivated.
             </p>
           </div>
         </div>
