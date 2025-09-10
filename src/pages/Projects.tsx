@@ -20,9 +20,9 @@ const Projects = () => {
       description: 'Designed and implemented a realistic banking network simulation using Cisco Packet Tracer, showcasing hands-on expertise in network design, device configuration, and subnetting. The project simulates a professional enterprise environment, emphasizing secure communication, network segmentation, and practical integration of multiple devices.',
       technologies: ['Cisco Packet Tracer'],
       category: 'Networking',
-      image: '/Portfolio.jpg',
-      github: 'https://github.com/Gokul007GiT/GokuFolio7/tree/master',
-      demo: 'https://gokulfolio.vercel.app/'
+      image: '/BANKING.jpg',
+      github: 'https://github.com/Gokul007GiT/Banking-Network-Simulation-Cisco-Packet-Tracer',
+      demo: 'https://github.com/Gokul007GiT/Banking-Network-Simulation-Cisco-Packet-Tracer'
     },
     
    
