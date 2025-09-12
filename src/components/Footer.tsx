@@ -21,7 +21,7 @@ const Footer = () => {
     },
     {
       icon: Instagram,
-      href: 'https://www.instagram.com/g_o_k_u_ll_/',
+      href: 'https://www.instagram.com/gookul._/',
       label: 'Instagram'
     }
   ];
